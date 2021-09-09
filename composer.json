@@ -1,4 +1,21 @@
 {
+    "name": "cadyn/twitchvmcphp",
+    "type": "application",
+    "description": "An open source webserver for serving oauth tokens.",
+    "keywords": [
+      "twitch",
+      "twitch.tv",
+      "twitch-tv",
+      "twitch-api",
+      "api"
+    ],
+    "homepage": "https://github.com/cadyn/TwitchVMCphp",
+    "license": "MIT",
+    "authors": [
+      {
+        "name": "Cadyn Bombaci",
+        "homepage": "https://github.com/cadyn"
+      }],
     "require": {
         "nicklaw5/twitch-api-php": "^6.0"
     }
